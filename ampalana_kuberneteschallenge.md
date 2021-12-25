@@ -106,3 +106,5 @@ use the external IP to login to Harbor
 - UserName: admin
 - Password: <PASSWORD_entered_on_yaml>
 
+![image](https://user-images.githubusercontent.com/76565762/147384170-3dccfc7c-050f-4621-9a52-8b2026f43e71.png)
+
